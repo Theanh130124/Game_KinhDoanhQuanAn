@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|d:\\l\u1EADp tr\u00ECnh giao di\u1EC7n c#\\49_anh_n1_kinhdoanhquanan\\49_anh_n1_kinhdoanhquanan\\49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmtrochoi_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmtrochoi_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmtrochoi_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmtrochoi_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmdangnhap_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmdangnhap_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmdangnhap_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmdangnhap_49_anh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340ECFE-3231-4C8F-AFE8-F71BEED87BB2}|49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn.csproj|solutionrelative:49_anh_n1_kinhdoanhquanan\\frmkhonguyenlieu_49_anh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmKhoNguyenLieu_49_Anh.Designer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.Designer.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.Designer.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.Designer.cs",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.Designer.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAAACABAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T02:38:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDangNhap_49_Anh.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:26:07.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDangNhap_49_Anh.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs [Design]",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmDangNhap_49_Anh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:36:36.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTroChoi_49_Anh.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAHoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:35:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmKhoNguyenLieu_49_Anh.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAcwOsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:31:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmKhoNguyenLieu_49_Anh.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs [Design]",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmKhoNguyenLieu_49_Anh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:31:48.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTroChoi_49_Anh.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "RelativeDocumentMoniker": "49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh giao di\u1EC7n C#\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs [Design]",
+              "RelativeToolTip": "49_Anh_N1_KinhDoanhQuanAn\\FrmTroChoi_49_Anh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:31:41.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

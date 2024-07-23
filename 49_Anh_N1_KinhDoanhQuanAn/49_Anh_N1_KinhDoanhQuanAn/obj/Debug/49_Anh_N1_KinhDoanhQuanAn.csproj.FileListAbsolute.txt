@@ -1,0 +1,12 @@
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\49_Anh_N1_KinhDoanhQuanAn.csproj.AssemblyReference.cache
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\_49_Anh_N1_KinhDoanhQuanAn.FrmDangNhap_49_Anh.resources
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\_49_Anh_N1_KinhDoanhQuanAn.FrmKhoNguyenLieu_49_Anh.resources
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\_49_Anh_N1_KinhDoanhQuanAn.FrmTroChoi_49_Anh.resources
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\_49_Anh_N1_KinhDoanhQuanAn.Properties.Resources.resources
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\49_Anh_N1_KinhDoanhQuanAn.csproj.GenerateResource.cache
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\49_Anh_N1_KinhDoanhQuanAn.csproj.CoreCompileInputs.cache
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\bin\Debug\49_Anh_N1_KinhDoanhQuanAn.exe.config
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\bin\Debug\49_Anh_N1_KinhDoanhQuanAn.exe
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\bin\Debug\49_Anh_N1_KinhDoanhQuanAn.pdb
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\49_Anh_N1_KinhDoanhQuanAn.exe
+D:\Lập trình giao diện C#\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\49_Anh_N1_KinhDoanhQuanAn\obj\Debug\49_Anh_N1_KinhDoanhQuanAn.pdb
